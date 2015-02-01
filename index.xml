@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+<<<<<<< HEAD
+      <title>Recent Content on Hugo Blog Template for GitHub Pages </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://spencerlyon2.github.io/index.xml</link>
+    
+    
+    
+    <updated>Sat, 29 Mar 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Just another sample post</title>
+      <link>http://spencerlyon2.github.io/posts/newest</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://spencerlyon2.github.io/posts/newest</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;First Heading&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, consequatur aspernatur omnis iste. Voluptates, id inventore ea natus ab sed amet ipsa ratione sunt dignissimos. Soluta illum aliquid repellendus recusandae.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Sub&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, perferendis saepe voluptatem a nesciunt architecto voluptas deleniti dolor tempora quasi quidem odit rem fugit magnam minima quam dolores vel id?&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, numquam ipsa ad! Quasi, deleniti quae sint consequatur error corporis dicta inventore alias soluta dignissimos? Molestias, quia ab deserunt repellat ut.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://spencerlyon2.github.io/posts/middle</link>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://spencerlyon2.github.io/posts/middle</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Sample Post 1&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Sub-heading&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, non, ratione, molestiae illo optio quia sequi id fuga natus nihil ad architecto dolor alias ex sunt iste aperiam eius itaque.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;foo&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, neque, eveniet voluptate eos debitis illum qui nostrum eius maxime ratione assumenda suscipit impedit deserunt voluptatibus odio ducimus non. Ex, ratione.&lt;/p&gt;
+=======
+    <title>День открытых данных Минск 2015</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on День открытых данных Минск 2015</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 01 Feb 2015 19:45:02 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Состояние открытых данных в РБ</title>
+      <link>http://localhost:1313/presentation/state-opendata-by/</link>
+      <pubDate>Sun, 01 Feb 2015 19:45:02 +0300</pubDate>
+      
+      <guid>http://localhost:1313/presentation/state-opendata-by/</guid>
+      <description>
+
+&lt;h2 id=&#34;состояние-открытых-данных-в-беларуси:c93bbe8e983130c61d9c55c75867000d&#34;&gt;Состояние открытых данных в Беларуси&lt;/h2&gt;
+>>>>>>> ac7d7ed12de42b741a8d0e8cfefe29208fdeb78c
+</description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>First Post</title>
+      <link>http://spencerlyon2.github.io/posts/oldest</link>
+      <pubDate>Thu, 27 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://spencerlyon2.github.io/posts/oldest</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Sample Post 1&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Sub-heading&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, non, ratione, molestiae illo optio quia sequi id fuga natus nihil ad architecto dolor alias ex sunt iste aperiam eius itaque.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;foo&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, neque, eveniet voluptate eos debitis illum qui nostrum eius maxime ratione assumenda suscipit impedit deserunt voluptatibus odio ducimus non. Ex, ratione.&lt;/p&gt;
+=======
+      <title>О событии</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 01 Feb 2015 19:42:06 +0300</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;о-событии:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;О событии&lt;/h2&gt;
+
+&lt;p&gt;Небольшой рассказ о событии&lt;/p&gt;
+>>>>>>> ac7d7ed12de42b741a8d0e8cfefe29208fdeb78c
+</description>
+    </item>
+    
+  </channel>
+</rss>
