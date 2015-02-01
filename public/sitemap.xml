@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://day15.opendata.by/</loc>
     <lastmod>2015-02-01T19:45:02+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/presentation/state-opendata-by/</loc>
+    <loc>http://day15.opendata.by/presentation/state-opendata-by/</loc>
     <lastmod>2015-02-01T19:45:02+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://day15.opendata.by/about/</loc>
     <lastmod>2015-02-01T19:42:06+03:00</lastmod>
   </url>
   
