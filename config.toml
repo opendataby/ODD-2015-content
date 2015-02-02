@@ -1,0 +1,21 @@
+baseurl = "http://day15.opendata.by"
+languageCode = "ru-ru"
+title = "День открытых данных Минск 2015"
+theme = "redlounge"
+
+[params]
+ sidebartitle = "Международный день открытых данных."
+ sidebartagline = "Минск 2015"
+
+[[menu.main]]
+  name = "Доклады"
+  url = "/presentation"
+
+[[menu.main]]
+  name = "О событии"
+  url = "/about"
+
+[[menu.social]]
+  pre = "<i class='fa fa-twitter'></i>"
+  url = "http://www.twitter.com/opendataby"
+  identifier = "twitter"
