@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>День открытых данных Минск 2015</title>
-    <link>http://localhost:1313/</link>
+    <link>day15.opendata.by/</link>
     <description>Recent content on День открытых данных Минск 2015</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Sun, 01 Feb 2015 19:45:02 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="day15.opendata.by/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Состояние открытых данных в РБ</title>
-      <link>http://localhost:1313/presentation/state-opendata-by/</link>
+      <link>/day15.opendata.by/presentation/state-opendata-by/</link>
       <pubDate>Sun, 01 Feb 2015 19:45:02 +0300</pubDate>
       
-      <guid>http://localhost:1313/presentation/state-opendata-by/</guid>
+      <guid>/day15.opendata.by/presentation/state-opendata-by/</guid>
       <description>
 
 &lt;h2 id=&#34;состояние-открытых-данных-в-беларуси:c93bbe8e983130c61d9c55c75867000d&#34;&gt;Состояние открытых данных в Беларуси&lt;/h2&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>О событии</title>
-      <link>http://localhost:1313/about/</link>
+      <link>/day15.opendata.by/about/</link>
       <pubDate>Sun, 01 Feb 2015 19:42:06 +0300</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>/day15.opendata.by/about/</guid>
       <description>
 
 &lt;h2 id=&#34;о-событии:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;О событии&lt;/h2&gt;
