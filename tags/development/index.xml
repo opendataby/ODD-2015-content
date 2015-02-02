@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on День открытых данных Минск 2015</title>
+    <link>http://localhost:1313/tags/development/</link>
+    <description>Recent content in Development on День открытых данных Минск 2015</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 02 Feb 2015 18:12:22 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Программа</title>
+      <link>http://localhost:1313/program/</link>
+      <pubDate>Mon, 02 Feb 2015 18:12:22 +0300</pubDate>
+      
+      <guid>http://localhost:1313/program/</guid>
+      <description>&lt;p&gt;Начало&lt;/p&gt;
+
+&lt;p&gt;Презентации&lt;/p&gt;
+
+&lt;p&gt;Печа-куча&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

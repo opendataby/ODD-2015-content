@@ -6,8 +6,32 @@
     <description>Recent content on День открытых данных Минск 2015</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 01 Feb 2015 19:45:02 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2015 19:18:24 +0300</lastBuildDate>
     <atom:link href="http://day15.opendata.by/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Регистрация</title>
+      <link>http://day15.opendata.by/register/</link>
+      <pubDate>Mon, 02 Feb 2015 19:18:24 +0300</pubDate>
+      
+      <guid>http://day15.opendata.by/register/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/forms/d/1-Z_kloWkrdRrJy9UJMbzW8oTjdn5IPxhPqGGr7QpHA8/viewform?embedded=true&#34; width=&#34;760&#34; height=&#34;550&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading...&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Программа</title>
+      <link>http://day15.opendata.by/program/</link>
+      <pubDate>Mon, 02 Feb 2015 18:12:22 +0300</pubDate>
+      
+      <guid>http://day15.opendata.by/program/</guid>
+      <description>&lt;p&gt;Начало&lt;/p&gt;
+
+&lt;p&gt;Презентации&lt;/p&gt;
+
+&lt;p&gt;Печа-куча&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Состояние открытых данных в РБ</title>
