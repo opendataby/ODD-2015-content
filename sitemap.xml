@@ -3,8 +3,33 @@
   
   <url>
     <loc>http://day15.opendata.by/</loc>
-    <lastmod>2015-02-02T19:18:24+03:00</lastmod>
+    <lastmod>2015-10-01T19:45:02+03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://day15.opendata.by/presentation/state-opendata-by/</loc>
+    <lastmod>2015-10-01T19:45:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://day15.opendata.by/presentation/gov-data/</loc>
+    <lastmod>2015-09-01T19:45:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://day15.opendata.by/presentation/licenses/</loc>
+    <lastmod>2015-08-01T19:45:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://day15.opendata.by/presentation/watercontrol/</loc>
+    <lastmod>2015-07-01T19:45:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://day15.opendata.by/apply/</loc>
+    <lastmod>2015-02-02T19:18:24+03:00</lastmod>
   </url>
   
   <url>
@@ -15,11 +40,6 @@
   <url>
     <loc>http://day15.opendata.by/program/</loc>
     <lastmod>2015-02-02T18:12:22+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://day15.opendata.by/presentation/state-opendata-by/</loc>
-    <lastmod>2015-02-01T19:45:02+03:00</lastmod>
   </url>
   
   <url>

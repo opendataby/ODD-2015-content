@@ -6,8 +6,60 @@
     <description>Recent content on День открытых данных Минск 2015</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 02 Feb 2015 19:18:24 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2015 19:45:02 +0300</lastBuildDate>
     <atom:link href="http://day15.opendata.by/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Состояние открытых данных в РБ</title>
+      <link>http://day15.opendata.by/presentation/state-opendata-by/</link>
+      <pubDate>Thu, 01 Oct 2015 19:45:02 +0300</pubDate>
+      
+      <guid>http://day15.opendata.by/presentation/state-opendata-by/</guid>
+      <description>&lt;p&gt;Алексей Медвецкий (opendata.by)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Данные, собранные государством: как мы можем их использовать</title>
+      <link>http://day15.opendata.by/presentation/gov-data/</link>
+      <pubDate>Tue, 01 Sep 2015 19:45:02 +0300</pubDate>
+      
+      <guid>http://day15.opendata.by/presentation/gov-data/</guid>
+      <description>&lt;p&gt;Диана Иванова&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Публичные лицензии для открытых баз данных и контента</title>
+      <link>http://day15.opendata.by/presentation/licenses/</link>
+      <pubDate>Sat, 01 Aug 2015 19:45:02 +0300</pubDate>
+      
+      <guid>http://day15.opendata.by/presentation/licenses/</guid>
+      <description>&lt;p&gt;Михаил Волчек (Фаланстер)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Презентация проекта watercontrol.by</title>
+      <link>http://day15.opendata.by/presentation/watercontrol/</link>
+      <pubDate>Wed, 01 Jul 2015 19:45:02 +0300</pubDate>
+      
+      <guid>http://day15.opendata.by/presentation/watercontrol/</guid>
+      <description>&lt;p&gt;Поречина Наталья&lt;/p&gt;
+
+&lt;p&gt;Краудсорсинг данных о загрязнениях природных водных ресурсов Беларуси&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Заявить выступление</title>
+      <link>http://day15.opendata.by/apply/</link>
+      <pubDate>Mon, 02 Feb 2015 19:18:24 +0300</pubDate>
+      
+      <guid>http://day15.opendata.by/apply/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/forms/d/19znMGNt4ACQFLQ1-jimPousiK1hXCz7_uJrq1lvYms4/viewform?embedded=true&#34; width=&#34;760&#34; height=&#34;750&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading...&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Регистрация</title>
@@ -34,18 +86,6 @@
     </item>
     
     <item>
-      <title>Состояние открытых данных в РБ</title>
-      <link>http://day15.opendata.by/presentation/state-opendata-by/</link>
-      <pubDate>Sun, 01 Feb 2015 19:45:02 +0300</pubDate>
-      
-      <guid>http://day15.opendata.by/presentation/state-opendata-by/</guid>
-      <description>
-
-&lt;h2 id=&#34;состояние-открытых-данных-в-беларуси:c93bbe8e983130c61d9c55c75867000d&#34;&gt;Состояние открытых данных в Беларуси&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>О событии</title>
       <link>http://day15.opendata.by/about/</link>
       <pubDate>Sun, 01 Feb 2015 19:42:06 +0300</pubDate>
@@ -54,8 +94,6 @@
       <description>
 
 &lt;h2 id=&#34;о-событии:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;О событии&lt;/h2&gt;
-
-&lt;p&gt;Небольшой рассказ о событии&lt;/p&gt;
 </description>
     </item>
     

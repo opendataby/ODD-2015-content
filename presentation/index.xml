@@ -6,18 +6,48 @@
     <description>Recent content in Presentations on День открытых данных Минск 2015</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 01 Feb 2015 19:45:02 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2015 19:45:02 +0300</lastBuildDate>
     <atom:link href="http://day15.opendata.by/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Состояние открытых данных в РБ</title>
       <link>http://day15.opendata.by/presentation/state-opendata-by/</link>
-      <pubDate>Sun, 01 Feb 2015 19:45:02 +0300</pubDate>
+      <pubDate>Thu, 01 Oct 2015 19:45:02 +0300</pubDate>
       
       <guid>http://day15.opendata.by/presentation/state-opendata-by/</guid>
-      <description>
+      <description>&lt;p&gt;Алексей Медвецкий (opendata.by)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Данные, собранные государством: как мы можем их использовать</title>
+      <link>http://day15.opendata.by/presentation/gov-data/</link>
+      <pubDate>Tue, 01 Sep 2015 19:45:02 +0300</pubDate>
+      
+      <guid>http://day15.opendata.by/presentation/gov-data/</guid>
+      <description>&lt;p&gt;Диана Иванова&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Публичные лицензии для открытых баз данных и контента</title>
+      <link>http://day15.opendata.by/presentation/licenses/</link>
+      <pubDate>Sat, 01 Aug 2015 19:45:02 +0300</pubDate>
+      
+      <guid>http://day15.opendata.by/presentation/licenses/</guid>
+      <description>&lt;p&gt;Михаил Волчек (Фаланстер)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Презентация проекта watercontrol.by</title>
+      <link>http://day15.opendata.by/presentation/watercontrol/</link>
+      <pubDate>Wed, 01 Jul 2015 19:45:02 +0300</pubDate>
+      
+      <guid>http://day15.opendata.by/presentation/watercontrol/</guid>
+      <description>&lt;p&gt;Поречина Наталья&lt;/p&gt;
 
-&lt;h2 id=&#34;состояние-открытых-данных-в-беларуси:c93bbe8e983130c61d9c55c75867000d&#34;&gt;Состояние открытых данных в Беларуси&lt;/h2&gt;
+&lt;p&gt;Краудсорсинг данных о загрязнениях природных водных ресурсов Беларуси&lt;/p&gt;
 </description>
     </item>
     
