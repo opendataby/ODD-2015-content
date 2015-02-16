@@ -468,34 +468,3 @@ hr.thin {
 .footer-logo {
 	margin-top: 100px;
 }
-
-.register-button {
-	text-align: center;
-	border-top: 1px solid #96d1f8;
-	background: #65a9d7;
-	padding: 7px 14px;
-	border-radius: 5px;
-	text-shadow: rgba(0,0,0,.4) 0 1px 0;
-	color: white;
-	font-size: 17px;
-	font-family: Helvetica, Arial, Sans-Serif;
-	text-decoration: none;
-	vertical-align: middle;
-	width: 54%;
-	margin-left: auto;
-	margin-right: auto;
-}
-.button:hover {
-	border-top-color: #28597a;
-	background: #28597a;
-	color: #ccc;
-}
-.button:active {
-	border-top-color: #1b435e;
-	background: #1b435e;
-}
-
-.register-button a {
-	color: white;
-	text-decoration: none;
-}
