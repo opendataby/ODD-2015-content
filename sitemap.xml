@@ -23,6 +23,16 @@
   </url>
   
   <url>
+    <loc>http://day15.opendata.by/presentation/osm/</loc>
+    <lastmod>2015-08-01T19:41:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://day15.opendata.by/presentation/business/</loc>
+    <lastmod>2015-08-01T19:40:02+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://day15.opendata.by/presentation/watercontrol/</loc>
     <lastmod>2015-07-01T19:45:02+03:00</lastmod>
   </url>
