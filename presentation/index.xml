@@ -10,7 +10,7 @@
     <atom:link href="http://day15.opendata.by/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Состояние открытых данных в РБ</title>
+      <title>Открытые данные в Беларуси в 2014 году</title>
       <link>http://day15.opendata.by/presentation/state-opendata-by/</link>
       <pubDate>Thu, 01 Oct 2015 19:45:02 +0300</pubDate>
       
@@ -25,7 +25,17 @@
       <pubDate>Tue, 01 Sep 2015 19:45:02 +0300</pubDate>
       
       <guid>http://day15.opendata.by/presentation/gov-data/</guid>
-      <description>&lt;p&gt;Диана Иванова&lt;/p&gt;
+      <description>&lt;p&gt;Диана Иванова (Фаланстер)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Возможности технологии Micro-tasking для сбора и обработки данных сообществами</title>
+      <link>http://day15.opendata.by/presentation/microtasking/</link>
+      <pubDate>Sat, 01 Aug 2015 19:49:02 +0300</pubDate>
+      
+      <guid>http://day15.opendata.by/presentation/microtasking/</guid>
+      <description>&lt;p&gt;Денис Карпенко&lt;/p&gt;
 </description>
     </item>
     
@@ -45,7 +55,7 @@
       <pubDate>Sat, 01 Aug 2015 19:41:02 +0300</pubDate>
       
       <guid>http://day15.opendata.by/presentation/osm/</guid>
-      <description>&lt;p&gt;Павел Тысляцкий&lt;/p&gt;
+      <description>&lt;p&gt;Павел Тысляцкий (opendata.by, сообщество OpenStreetMap)&lt;/p&gt;
 </description>
     </item>
     
@@ -60,12 +70,12 @@
     </item>
     
     <item>
-      <title>Презентация проекта watercontrol.by</title>
+      <title>Проект “Водный контроль</title>
       <link>http://day15.opendata.by/presentation/watercontrol/</link>
       <pubDate>Wed, 01 Jul 2015 19:45:02 +0300</pubDate>
       
       <guid>http://day15.opendata.by/presentation/watercontrol/</guid>
-      <description>&lt;p&gt;Поречина Наталья&lt;/p&gt;
+      <description>&lt;p&gt;Поречина Наталья (Центр Экологических Решений)&lt;/p&gt;
 
 &lt;p&gt;Краудсорсинг данных о загрязнениях природных водных ресурсов Беларуси&lt;/p&gt;
 </description>
